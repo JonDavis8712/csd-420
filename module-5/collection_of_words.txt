@@ -1,0 +1,92 @@
+apple banana orange apple grape banana kiwi mango peach plum
+apple banana orange grape kiwi mango peach plum strawberry blueberry
+apple orange kiwi peach plum blueberry raspberry watermelon
+apple kiwi plum raspberry watermelon pineapple
+banana mango strawberry watermelon pineapple
+orange peach blueberry pineapple
+grape plum watermelon
+kiwi raspberry
+mango pineapple
+peach
+plum
+watermelon
+apple banana orange apple grape banana kiwi mango peach plum
+apple banana orange grape kiwi mango peach plum strawberry blueberry
+apple orange kiwi peach plum blueberry raspberry watermelon
+apple kiwi plum raspberry watermelon pineapple
+banana mango strawberry watermelon pineapple
+orange peach blueberry pineapple
+grape plum watermelon
+kiwi raspberry
+mango pineapple
+peach
+plum
+watermelon
+test testing tester tests tested
+program programming programmer programs
+file files filename filetype
+read reading reader reads
+display displaying displayed displays
+nonduplicate unique distinct
+ascending descending order ordered
+java program java code java language
+text file word file collection file
+hundred hundreds
+ensure ensuring ensured
+function functions functional
+correct correctly correctness
+sample collection words test program
+repeated words different capitalization
+handle correctly ensure functionality
+more words to add collection
+this is a test to see if it works
+it works correctly
+this test should pass all criteria
+criteria met program functions as expected
+expected output ascending descending
+testing with a large number of words
+large number of unique words
+some words are repeated many times
+times repeated words some words
+this should stress the program a little
+little stress program should handle
+handle stress without issues
+issues should not occur during processing
+processing large file of words
+words in the file are a mix
+mix of short and long words
+long words should be handled correctly too
+too many words to count easily
+easily we can say there are hundreds
+hundreds of words in this collection
+collection is designed for thorough testing
+thorough testing is important for quality
+quality software is the goal
+goal achieved through careful testing
+careful testing and attention to detail
+detail is important in programming
+programming requires precision
+precision leads to correct output
+output should match expectations
+expectations are clear ascending descending
+descending then ascending order
+order of words is important
+important to get it right
+right output is the aim
+aim for perfect execution
+execution without errors
+errors should be caught and handled
+handled gracefully by the program
+program should be robust
+robust and reliable for all inputs
+inputs from the file are processed
+processed to find unique words
+unique words then sorted and displayed
+displayed in the required order
+order is crucial for the assignment
+assignment requirements must be met
+met with a working and tested program
+program that works and is tested well
+well tested code is good code
+good code is the final objective
+objective reached successfully.
