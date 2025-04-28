@@ -1,0 +1,27 @@
+/* class for white fill and black stroke */
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+/* ID for red fill and stroke */
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+/* ID for green fill and stroke */
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
+
+/* The document also included these, but they are not used for the basic four circles */
+.circleborder {
+    -fx-stroke-width: 5;
+    -fx-stroke-dash-array: 12 2 4 2;
+}
+.border {
+    -fx-border-color: black;
+    -fx-border-width: 5;
+} 
